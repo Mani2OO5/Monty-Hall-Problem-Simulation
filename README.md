@@ -7,7 +7,7 @@ It demonstrates the difference between **staying** with the initial choice and *
 
 ## 📘 Description
 
-In the Monty Hall problem:
+In the Monty Hall problem: 🐐🚗🚪
 
 1. There are **three doors**: behind one is a **car**, behind the other two are **goats**.  
 2. You pick one door.  
