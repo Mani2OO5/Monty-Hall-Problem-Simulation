@@ -32,7 +32,8 @@ The program:
 
 ### Example output: 
 
-**Winning probability without changing:** 0.33456
+**Winning probability without changing:** 0.33456  
+
 **Winning probability with changing:** 0.66544
 
 
