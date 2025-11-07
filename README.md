@@ -1,11 +1,11 @@
-# 🎯 Monty Hall Simulation
+# 🎯Monty Hall Simulation
 
 This project simulates the **Monty Hall problem**, a famous probability puzzle based on a game show scenario.  
 It demonstrates the difference between **staying** with the initial choice and **switching** after one door is revealed.
 
 ---
 
-## 📘 Description
+## 📘Description
 
 In the Monty Hall problem: 🐐🚗🚪
 
@@ -22,7 +22,7 @@ This simulation confirms that result by running the experiment thousands of time
 
 ---
 
-## 🧠 How It Works
+## 🧠How It Works
 
 The program:
 - Randomly assigns prizes behind doors.  
@@ -38,7 +38,7 @@ The program:
 
 ---
 
-## ⚙️ Usage
+## ⚙️Usage
 
 Make sure you have **Python 3.x** installed.
 
@@ -49,13 +49,13 @@ python main.py
 ```
 ---
 
-## 👨‍💻 Author
+## 👨🏻‍💻Author
 
 Created by Mani Arab
 
 ---
 
-## 🧾 License
+## ⚖️License
 
 This project is released under the MIT License, so you can freely use, modify, and share it.
 
