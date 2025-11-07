@@ -51,7 +51,8 @@ python main.py
 
 ## 👨🏻‍💻Author
 
-**Created by Mani Arab**  
+*Created by Mani Arab*
+
 If you find this project useful, feel free to ⭐ the repo or fork it!
 ---
 
